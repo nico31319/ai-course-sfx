@@ -3,7 +3,7 @@
  "how_to_use": "先讀這份 index.json，依 type／category／use_when 挑檔，再用 curl -L 下載 raw_url。音效放在人聲下方（比人聲小 6～10 dB），背景音樂比人聲小約 20 dB，頭尾都加淡入淡出。 type=dm 是天麗產品宣傳圖：講到那支產品時可全螢幕插 1.5 秒當產品亮相（同一支片最多 2 張、不要在圖上另外加功效字），先看 desc 挑最搭的。",
  "counts": {
   "sfx": 19,
-  "bgm": 8,
+  "bgm": 22,
   "product": 22,
   "dm": 27
  },
@@ -908,6 +908,174 @@
    "use_when": "天麗夥伴剪片時，講到這支產品可全螢幕插 1.5 秒當產品亮相（只用圖、不要另外加功效字）",
    "source": "天麗生技官方產品宣傳圖（Nico 提供並同意公開）",
    "license": "天麗生技產品圖，僅供天麗夥伴宣傳天麗產品使用"
+  },
+  {
+   "file": "bgm/life_ukulele_happy.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_ukulele_happy.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "烏克麗麗＋鐘琴＋拍手，開心俏皮",
+   "use_when": "生活分享：出遊、日常小確幸、親子、寵物",
+   "duration_sec": 60.3,
+   "loudness": "-19.2 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_morning_guitar.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_morning_guitar.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "晨間木吉他，清爽明亮",
+   "use_when": "生活分享：早晨、咖啡、週末日常、慢生活",
+   "duration_sec": 75.0,
+   "loudness": "-18.7 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_warm_acoustic_pop.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_warm_acoustic_pop.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "溫暖木吉他流行，輕快有溫度",
+   "use_when": "生活分享：生活紀錄、朋友聚會、回憶",
+   "duration_sec": 75.0,
+   "loudness": "-18.9 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_tropical_house.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_tropical_house.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "熱帶 House，夏天、度假感",
+   "use_when": "生活分享：旅行、海邊、戶外、度假",
+   "duration_sec": 75.0,
+   "loudness": "-18.9 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_bossa_nova.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_bossa_nova.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "巴莎諾瓦，悠閒午後",
+   "use_when": "生活分享：咖啡廳、美食、午後散步",
+   "duration_sec": 75.0,
+   "loudness": "-19.7 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_strum_guitar.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_strum_guitar.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "輕快刷吉他，有活力",
+   "use_when": "生活分享：出遊、運動、走走逛逛",
+   "duration_sec": 75.0,
+   "loudness": "-18.5 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_marimba_bounce.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_marimba_bounce.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "馬林巴，跳跳的、可愛",
+   "use_when": "生活分享：整理收納、手作、前後對比、小技巧",
+   "duration_sec": 62.5,
+   "loudness": "-18.4 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_playful.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_playful.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "俏皮輕快",
+   "use_when": "生活分享：搞笑日常、寵物、孩子",
+   "duration_sec": 75.0,
+   "loudness": "-20.0 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_family_warm.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_family_warm.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "溫馨木吉他，柔和",
+   "use_when": "生活分享：家人、紀念日、回憶相簿",
+   "duration_sec": 75.0,
+   "loudness": "-18.3 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_lofi_house.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_lofi_house.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "Lofi House，chill 有律動",
+   "use_when": "生活分享：城市散步、夜景、vlog",
+   "duration_sec": 75.0,
+   "loudness": "-18.3 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_chillhop.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_chillhop.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "Chillhop，放鬆慢節奏",
+   "use_when": "生活分享：居家、讀書、雨天、慢 vlog",
+   "duration_sec": 75.0,
+   "loudness": "-19.3 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_bright_open.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_bright_open.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "明亮開闊",
+   "use_when": "生活分享：新開始、旅行出發、好消息",
+   "duration_sec": 75.0,
+   "loudness": "-20.0 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_fresh_bright.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_fresh_bright.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "明亮清新",
+   "use_when": "生活分享：春天、整理、乾淨清爽的日常",
+   "duration_sec": 75.0,
+   "loudness": "-19.3 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
+  },
+  {
+   "file": "bgm/life_glockenspiel_clap.mp3",
+   "raw_url": "https://raw.githubusercontent.com/nico31319/ai-course-sfx/main/bgm/life_glockenspiel_clap.mp3",
+   "type": "bgm",
+   "category": "生活輕快",
+   "mood": "鐘琴拍手，節慶歡樂",
+   "use_when": "生活分享：生日、聚會、節日、慶祝",
+   "duration_sec": 75.0,
+   "loudness": "-19.7 LUFS（整合響度）",
+   "source": "Nico 用 Google Gemini（Lyria）生成的純音樂，剪前 75 秒、結尾 3 秒淡出",
+   "license": "Nico 提供，限 AI 實戰班學員剪自己的影片使用"
   }
  ]
 }

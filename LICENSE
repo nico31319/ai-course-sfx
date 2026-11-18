@@ -1,0 +1,9 @@
+sfx/ 與 bgm/：Creative Commons Zero v1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+- sfx/ 的音效取自 Kenney（https://kenney.nl）的 Interface Sounds、UI Audio、RPG Audio、Casino Audio、Impact Sounds 音效包，原作者以 CC0 1.0 釋出。
+- bgm/ 的音樂取自 FreePD（freepd.com，2025 年已關站），原站聲明全部音樂以 CC0 1.0 Universal Public Domain Dedication 釋出；各曲作者見 README.md。
+- 本庫的整理、剪輯、響度處理、index.json 與 README 文字，整理者亦以 CC0 1.0 釋出，在法律允許範圍內放棄所有著作權與相關權利。
+
+products/：不適用 CC0。
+天麗生技（Tenlead）產品圖片，著作權屬天麗生技，僅供天麗夥伴宣傳、介紹天麗產品使用，不得用於其他用途。
